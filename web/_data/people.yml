@@ -5,13 +5,8 @@ Dr.Qiao:
     github: linboqiao
     role: faculty
     image: /img/people/prof-x.png
-    bio: Dr.
+    #bio: Dr.
 
-QiZhai:
-    display_name: "Qi Zhai"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
 
 ZhigangKan:
     display_name: "Zhigang Kan"
@@ -19,6 +14,19 @@ ZhigangKan:
     role: grad
     image: /img/people/storm.png
 
+QiZhai:
+    display_name: "Qi Zhai"
+    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    role: grad
+    image: /img/people/storm.png
+
+
+
+LinhuiFeng:
+    display_name: "Linhui Feng"
+    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    role: ugrad
+    image: /img/people/storm.png
 
 YifuGao:
     display_name: "Yifu Gao"
@@ -31,13 +39,6 @@ RuiWang:
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: ugrad
     image: /img/people/storm.png
-
-LinhuiFeng:
-    display_name: "Linhui Feng"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: ugrad
-    image: /img/people/storm.png
-
 
 
 
