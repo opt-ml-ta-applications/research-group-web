@@ -18,7 +18,8 @@ SERVE_HOST ?= 0.0.0.0
 SERVE_PORT ?= 80
 
 serve: _includes/pubs.html
-	jekyll serve --port $(SERVE_PORT) --host $(SERVE_HOST)  --incremental --watch
+	jekyll build
+	jekyll serve --port $(SERVE_PORT) --host $(SERVE_HOST)  --incremental --watch --detach
 
 clean:
 	$(RM) -r _site _includes/pubs.html

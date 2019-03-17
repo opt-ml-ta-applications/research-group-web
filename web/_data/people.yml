@@ -1,11 +1,11 @@
 
-Dr.Qiao:
+LinboQiao:
     display_name: "Dr. Linbo Qiao"
     webpage: "https://scholar.google.com/citations?user=x75rFokAAAAJ"
     github: linboqiao
     role: faculty
     image: /img/people/prof-x.png
-    #bio: Dr.
+    bio: Research Associate
 
 
 ZhigangKan:
@@ -41,6 +41,12 @@ RuiWang:
     image: /img/people/storm.png
 
 
+CongliangLuo:
+    display_name: "Congliang Luo"
+    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+    role: staff
+    image: /img/people/scott.png
+    bio: aka Cyclops
 
 HuihuangSu:
     display_name: "Huihuang Su"
