@@ -36,24 +36,23 @@ RuiWang:
     image: /img/people/storm.png
 
 
-<<<<<<< HEAD
-CongliangLuo:
-    display_name: "Congliang Luo"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-=======
 YifuGao:
     display_name: "Yifu Gao"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: ugrad
     image: /img/people/storm.png
     
->>>>>>> f289ae5dfaec231727c3e5c724531e4cd8ef55e2
 
 HuihuangSu:
     display_name: "Huihuang Su"
+    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+    role: staff
+    image: /img/people/scott.png
+    bio: aka Cyclops
+
+
+CongliangLuo:
+    display_name: "Congliang Luo"
     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
     role: staff
     image: /img/people/scott.png
