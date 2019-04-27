@@ -1,1 +1,5 @@
 *.cmds
+_site
+_includes/pubs.html
+/test-deploy.sh
+.jekyll-metadata
