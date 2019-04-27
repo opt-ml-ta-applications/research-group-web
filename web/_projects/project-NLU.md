@@ -1,8 +1,7 @@
 ---
-title: Natural Language Understanding
+title: NLU
 
-description: |
-  Natural Language Understanding: Theories, Algorithms, and Applications.
+description: Natural Language Understanding
 
 people:
   - LinboQiao
